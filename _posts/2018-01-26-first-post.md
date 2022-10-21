@@ -5,8 +5,9 @@ categories: jekyll update
 ---
 
 ![1](https://user-images.githubusercontent.com/116243539/197185796-7a1ba5e0-ed68-4888-9590-6a41347d21a6.jpg)
-[![2](/_image/2.jpg)](https://github.com/swingcamera/swingcamera.github.io/issues/2#issue-1418193684)
-![3](/_image/3.jpg)
+![2](/_image/2.jpg)](https://github.com/swingcamera/swingcamera.github.io/issues/2#issue-1418193684)
+![3](https://user-images.githubusercontent.com/116243539/197186962-79031ab8-44cd-4387-a06c-f50ebfc3eb72.jpg)
+
 ![4](/_image/4.gif)
 ![5](/_image/5.jpg)
 
