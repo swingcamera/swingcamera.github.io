@@ -5,6 +5,10 @@ categories: jekyll update
 ---
 
 ![1](/_image/1.jpg)
+![2](/_image/2.jpg)
+![3](/_image/3.jpg)
+![4](/_image/4.gif)
+![5](/_image/5.jpg)
 
 
 ​```python
