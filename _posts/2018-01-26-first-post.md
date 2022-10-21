@@ -27,6 +27,17 @@ categories: jekyll update
 ![21](https://user-images.githubusercontent.com/116243539/197190875-61e92fe3-68e2-4c19-a4a7-4ff8fea1fa20.jpg)
 ![22](https://user-images.githubusercontent.com/116243539/197190914-0e075fbe-70b4-457e-877c-f4359c35e241.gif)
 ![23](https://user-images.githubusercontent.com/116243539/197190992-dbb7b9d4-9470-4d3f-92cb-adfb886e3e87.jpg)
+![24](https://user-images.githubusercontent.com/116243539/197191787-4e6e0338-af17-42b8-89dd-d0071125a775.gif)
+![25](https://user-images.githubusercontent.com/116243539/197192096-eb960fdd-3da4-4a37-9748-c5e309461689.jpg)
+![26](https://user-images.githubusercontent.com/116243539/197192134-8c2cfdef-8e8a-4706-9f11-850b5bc556f6.jpg)
+![27](https://user-images.githubusercontent.com/116243539/197192173-74de1d2a-1c6e-4d76-a11d-26bd349a021e.jpg)
+![28](https://user-images.githubusercontent.com/116243539/197192208-44cd5771-cc18-4c1d-beaa-39aad2c8520c.jpg)
+![29](https://user-images.githubusercontent.com/116243539/197192239-110beb6c-b5aa-4207-8a45-fbd01674dc0a.jpg)
+![30](https://user-images.githubusercontent.com/116243539/197192265-92f52804-0a02-432c-afca-b52bdca2cd0a.jpg)
+![31](https://user-images.githubusercontent.com/116243539/197192333-a39e173e-1224-412f-8173-9a23504e6d0e.png)
+![32](https://user-images.githubusercontent.com/116243539/197192374-595b09f9-3e8d-400a-857e-64fbecd06c4e.jpg)
+![33](https://user-images.githubusercontent.com/116243539/197192592-58aa15a9-b55e-4875-96d3-4a93e29fba7b.jpg)
+![34](https://user-images.githubusercontent.com/116243539/197192933-b6df25bc-03ba-4192-89bd-3f3beb961ccb.jpg)
 
 
 
