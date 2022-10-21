@@ -9,7 +9,8 @@ categories: jekyll update
 
 ![3](https://user-images.githubusercontent.com/116243539/197186962-79031ab8-44cd-4387-a06c-f50ebfc3eb72.jpg)
 
-![4](/_image/4.gif)
+![4](https://user-images.githubusercontent.com/116243539/197187656-0385d04c-ff81-4f4f-b7e0-0f710a9c1a40.gif)
+
 ![5](/_image/5.jpg)
 
 
