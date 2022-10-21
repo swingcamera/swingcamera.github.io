@@ -4,7 +4,7 @@ date: 2017-10-20 08:26:28 -0400
 categories: jekyll update
 ---
 
-![1](/_image/1.jpg)
+![1](swingcamera.github.io/_image/1.jpg)
 ![2](/_image/2.jpg)
 ![3](/_image/3.jpg)
 ![4](/_image/4.gif)
