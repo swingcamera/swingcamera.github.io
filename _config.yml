@@ -107,8 +107,8 @@ author:
   name             : "Swing Camera"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "It Must Have a Item."
-  location         : "Somewhere"
-  email            :
+  location         : "Incheon"
+  email            : "swingcamera2020@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
