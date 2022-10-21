@@ -4,7 +4,7 @@ date: 2017-10-20 08:26:28 -0400
 categories: jekyll update
 ---
 
-[1](./_image/1.jpg)
+![1](/_image/1.jpg)
 
 
 ​```python
